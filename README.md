@@ -18,7 +18,6 @@ To connect to mobile network from computer, you will need a linux operating syst
 sudo apt install libimobiledevice6
 eth0 or eth1 - Look for USB teathering
 ```
-![muo-linux-usb-tethering-iphone-eth1](https://user-images.githubusercontent.com/65059545/129753115-82784fc8-8c35-41b0-823f-c1d6198cf9e2.png)
 
 Now, You have sucessfully connected to the IOS network
 
@@ -33,12 +32,22 @@ Type the below command in the terminal
 ```
 usb0
 ```
-![muo-linux-usb-tethering-android-usb0](https://user-images.githubusercontent.com/65059545/129753966-63338402-cc7c-44e1-997b-2171b30ce44f.png)
 
 Now, You have sucessfully connected to the Android network
 
 
 ## Configuring Connections on Linux Operating System
+
+To configure your mobile device with the computer you need to follow the following commands:
+1. Install Modem Manager
+2. Check if the modem is detected or not
+3. List the detailed information of the modem. (This will show hardware, system, Numbers, Status, Modes, Bands, IP, SIM, Bearers)
+4. If the sim has pin locking enabled then we need to send `sim index`. In this case it is `0`. For disabling the pin locking, change the sim index.
+5. The next step is adding cellular connections with `GSM`.
+6. Finally, we will add `WWAN connection` to our state.
+
+The commands of the  whole process is given below:
+
 ```
 $ snap install modem-manager
 $ sudo modem-manager.mmcli -L
