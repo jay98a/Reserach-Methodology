@@ -62,6 +62,11 @@ $ nmcli c down <name>
 $ nmcli c add type gsm ifname <interface> con-name <name> apn <operator_apn> username <user> password <password> pin <PIN>
 
 ```
+# Badges
+![Conda](https://img.shields.io/conda/pn/conda-forge/python)
+![CPAN](https://img.shields.io/cpan/l/Config-Augeas)
+![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/mocha)
+![Ubuntu package](https://img.shields.io/ubuntu/v/ubuntu-wallpapers/bionic)
 
 # References
 * “Attention Required! | Cloudflare.” Omdia, omdia.tech.informa.com/OM004591/First-generation-5G-designs-highlight-critical-importance-of-modem-and-RF-integration-in-future-smartphones. Accessed 17 Aug. 2021.
