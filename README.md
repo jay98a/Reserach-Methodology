@@ -8,7 +8,10 @@ The fifth-age innovation of media transmission prevalently known as 5G is perhap
 
 In 5G, its activity is equivalent to the `past generation (4g)` however it utilizes a technique known as wavelength which undoubtedly have less jumbling and can in this manner convey more data at a lot higher velocities. `5G network configuration` portraying 5G and 4G organizations working together, with focal and nearby workers offering purchasers with speedier substance and low-inertness applications. The 'Radio Access Network' and the 'Center Network' are the two basic parts of a versatile network.
 
-## Design
+# Working 
+
+
+# Design
 
 To connect to mobile network from computer, you will need a linux operating system (IOS Devices).
 1. Open Settings from your mobile
@@ -63,9 +66,27 @@ $ nmcli c add type gsm ifname <interface> con-name <name> apn <operator_apn> use
 
 ```
 # Proposed Methodology
-![Capture](https://user-images.githubusercontent.com/65059545/129815697-6ab2b188-72ca-4cf9-a1ae-d0de35ea4b97.PNG)
 
-In any event, when Tactile Internet comes into the image, in which people may remotely control genuine and virtual objects, won't be accomplished except if monstrous framework plan obstructions are survived. For people to cooperate with anything from nature to any framework the reaction time ought to be pretty much as low as 100ms, 10ms, or 1ms for hearing and visualizing separately.
+It is appropriately said in that it will be truly hard to limit the clients with high portability to low rates and other with high rate in light of the fact that it will be exceptionally difficult at mmWave frequencies to do handoffs since the sending and the getting radiates must be adjusted to convey. Also, as depicted in that mmWave is generally encouraging to use for the 5G network on account of the great information rates be that as it may, it makes it more unpredictable at the base station to deal with every one of the solicitations.. Unmistakably, it tends to be seen that there is a great deal of space for improvement before the 5G can be industrially be dispatched for most of the shoppers and every one of the clients taking benefit of it. The help of portability to the clients is turning out to be more troublesome with the networks proceeds to densify and heterogeneity increments. 
+
+
+![Capture](https://user-images.githubusercontent.com/65059545/129929551-c02d7764-7fe9-4921-a5da-3c98c849c25e.PNG)
+
+
+In any event, when Tactile Internet comes into the image, in which people may remotely control genuine and virtual objects, won't be accomplished except if monstrous framework plan obstructions are survived. For people to cooperate with anything from nature to any framework the reaction time ought to be pretty much as low as 100ms, 10ms, or 1ms for hearing and visualizing separately. As far as network, the greater part of the papers examined above have their own specific manner for the 5G mmWave band availability due to the complications looked in it because of the essential idea of mmWave as being exceptionally powerless to blockage, with such a large number of obstructions in the middle of the quality decreases radically.
+
+Basically the same as 5G remote correspondence benefits the drones have as of late pulled in a ton of interest for their capacity to play out an assortment of errands going from transportation of things to clients, logical exploration, to notice or gather information about imperiled species, or in pivotal military tasks. At the point when distant circumstances are viewed as these robots consummately fit in because of their capacity of controller and reach to arrive at these spots.
+
+For placement of drones, the following formula will come into use:
+
+![drone_formula](https://user-images.githubusercontent.com/65059545/129927850-bdf684a8-1054-4740-a048-07082b9cdc18.PNG)
+
+The below choice factors permit us to characterize which targets are covered by each allotted drone:
+
+![drone_formula_1](https://user-images.githubusercontent.com/65059545/129927707-4430d93d-1654-4308-a603-9cecc327ebb0.PNG)
+
+(x,y,h) is coordinate placement of the drone.
+
 
 
 # Badges
@@ -79,3 +100,4 @@ In any event, when Tactile Internet comes into the image, in which people may re
 * Cawley, Christian, and Christian Cawley. “How to Tether Any Smartphone to Linux for Mobile Internet.” MUO, 5 May 2020, www.makeuseof.com/tag/how-to-tether-your-smartphone-in-linux/. 
 * “Configure Cellular Connections.” Ubuntu, ubuntu.com/core/docs/networkmanager/configure-cellular-connections. Accessed 17 Aug. 2021.
 * Simsek, Meryem, et al. "5G-enabled tactile internet." IEEE Journal on Selected Areas in Communications 34.3 (2016): 460-473.
+* Zorbas, Dimitrios, et al. "Optimal drone placement and cost-efficient target coverage." Journal of Network and Computer Applications 75 (2016): 16-31.
