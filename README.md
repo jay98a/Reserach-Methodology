@@ -13,6 +13,8 @@ In 5G, its activity is equivalent to the `past generation (4g)` however it utili
 
 # Design
 
+Some commands to connect any computer to a mobile network are as under:
+
 To connect to mobile network from computer, you will need a linux operating system (IOS Devices).
 1. Open Settings from your mobile
 2. Go to Personal Hotspot
