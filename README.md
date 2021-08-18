@@ -8,7 +8,14 @@ The fifth-age innovation of media transmission prevalently known as 5G is perhap
 
 In 5G, its activity is equivalent to the `past generation (4g)` however it utilizes a technique known as wavelength which undoubtedly have less jumbling and can in this manner convey more data at a lot higher velocities. `5G network configuration` portraying 5G and 4G organizations working together, with focal and nearby workers offering purchasers with speedier substance and low-inertness applications. The 'Radio Access Network' and the 'Center Network' are the two basic parts of a versatile network.
 
-# Working 
+# Working of 5G Services
+Any remote frameworks utilize radio frequencies to bring data through the air which is otherwise called range in specialized terms. In 5G, its activity is equivalent to the past age yet it utilizes higher groups called'millimeter wave' (waves) which without a doubt have less jumbling and can consequently convey more data at a lot higher rates.
+
+Radio Access Network - The radio access network comprise of all the passages for the network like pinnacles, poles and committed in-building modules, little cells, and so on In any case, for 5G innovation little cells are the significant component on account of the new waves which are having extremely short reach however very high velocity. 
+
+Center Network - For versatile networks the center network comprise of the fundamental capacity modules of the network like voice administrations, information, and internet providers. Yet, for 5G the the center network is upgraded to have more spotlight on better joining with the web, cloud administrations, and the help reaction time. 
+
+For offering neighborhood support with high information speed and low dormancy, 5G utilizations procedures like Network cutting and network Function Virtualization (NVF). At whatever point, in genuine life situation a 5G association is set up, the gadget will naturally join to both 4G and 5G organizations to give control flagging.
 
 
 # Design
