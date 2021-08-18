@@ -62,6 +62,12 @@ $ nmcli c down <name>
 $ nmcli c add type gsm ifname <interface> con-name <name> apn <operator_apn> username <user> password <password> pin <PIN>
 
 ```
+# Proposed Methodology
+![Capture](https://user-images.githubusercontent.com/65059545/129815697-6ab2b188-72ca-4cf9-a1ae-d0de35ea4b97.PNG)
+
+In any event, when Tactile Internet comes into the image, in which people may remotely control genuine and virtual objects, won't be accomplished except if monstrous framework plan obstructions are survived. For people to cooperate with anything from nature to any framework the reaction time ought to be pretty much as low as 100ms, 10ms, or 1ms for hearing and visualizing separately.
+
+
 # Badges
 ![Conda](https://img.shields.io/conda/pn/conda-forge/python)
 ![CPAN](https://img.shields.io/cpan/l/Config-Augeas)
@@ -72,3 +78,4 @@ $ nmcli c add type gsm ifname <interface> con-name <name> apn <operator_apn> use
 * “Attention Required! | Cloudflare.” Omdia, omdia.tech.informa.com/OM004591/First-generation-5G-designs-highlight-critical-importance-of-modem-and-RF-integration-in-future-smartphones. Accessed 17 Aug. 2021.
 * Cawley, Christian, and Christian Cawley. “How to Tether Any Smartphone to Linux for Mobile Internet.” MUO, 5 May 2020, www.makeuseof.com/tag/how-to-tether-your-smartphone-in-linux/. 
 * “Configure Cellular Connections.” Ubuntu, ubuntu.com/core/docs/networkmanager/configure-cellular-connections. Accessed 17 Aug. 2021.
+* Simsek, Meryem, et al. "5G-enabled tactile internet." IEEE Journal on Selected Areas in Communications 34.3 (2016): 460-473.
